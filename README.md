@@ -23,6 +23,6 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my expertise in
 ## Contact Information
 For inquiries, collaboration, or further information, feel free to reach out:
 - **Email**: seangeang123@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/seangeang-ung)
+- **LinkedIn**: Seangeang Ung(https://www.linkedin.com/in/seangeang-ung)
 
 Thank you for visiting my portfolio!
