@@ -5,7 +5,7 @@
 ![Tools](https://img.shields.io/badge/Tools-Nmap%20%7C%20Wireshark%20%7C%20SQL-3776AB?style=for-the-badge)
 ![Education](https://img.shields.io/badge/B.Sc.%20Cybersecurity-AUPP-2EA44F?style=for-the-badge)
 
-Welcome! I am **UNG Seangeang (Eang)**, a sophomore pursuing a **B.Sc. in Cybersecurity** at the **American University of Phnom Penh (AUPP)** in Cambodia. I am developing practical skills through coursework, hands-on labs, and independent projects, with an interest in security analysis, network defense, vulnerability assessment, and defensive security operations.
+Welcome! I am **UNG Seangeang (Eang)**, a sophomore pursuing a **B.Sc. in Cybersecurity** at the **American University of Phnom Penh (AUPP)** in Cambodia. I am developing practical skills through coursework, hands-on labs, and independent projects, with a career focus on **SOC Analyst / Security Operations**.
 
 I also have experience as a STEM and robotics educator. This portfolio documents my learning process and practical work. The projects are educational labs and should not be interpreted as professional client engagements.
 
@@ -20,19 +20,27 @@ I also have experience as a STEM and robotics educator. This portfolio documents
 | 03 | [Network Analysis](./03-network-analysis/) | Packet inspection and network traffic analysis | Wireshark, TCP/IP |
 | 04 | [Linux Permissions](./04-linux-permissions/) | Reviewing file permissions and using a Bash script to apply least-privilege settings | Linux, Bash, chmod, stat |
 | 05 | [SQL Analysis](./05-sql-analysis/) | Filtering and reviewing security-related records | SQL, authentication logs |
-| 06 | [Vulnerability Assessment](./06-vulnerability-assessment/) | Vulnerability assessment in a controlled OWASP Juice Shop lab | Nmap, OWASP Juice Shop, Kali Linux |
+| 06 | [OWASP Juice Shop Vulnerability Assessment](./06-vulnerability-assessment/) | Manual validation of web application vulnerabilities and remediation planning | Burp Suite, OWASP ZAP, Gobuster, WhatWeb |
 | 07 | [Incident Response](./07-incident-response/) | Documenting incident triage and response concepts | Incident response lifecycle |
 | 08 | [Python Log Analysis](./08-python-log-analysis/) | Learning to parse and review log data with Python | Python, regular expressions |
 | 09 | [Resume](./09-resume/) | Academic and project background | CV |
-| 10 | [Certificates](./10-certificate/) | Training certificates and completed learning credentials | Google, ISC2 |\n| 11 | [SOC Alert Triage Lab](./11-soc-alert-triage/) | Python-based SSH authentication log triage using synthetic events, transparent detection logic, and unit tests | Python, Linux auth.log, SOC triage, MITRE ATT&CK |
+| 10 | [Certificates](./10-certificate/) | Training certificates and completed learning credentials | Google, ISC2 |
+| 11 | [SOC Alert Triage Lab](./11-soc-alert-triage/) | Python-based SSH authentication log triage using synthetic events, transparent detection logic, and unit tests | Python, Linux auth.log, SOC triage, MITRE ATT&CK |
 
-## 🚨 SOC Analyst Practice\n\nThe new [SOC Alert Triage Lab](./11-soc-alert-triage/) is the first project in this portfolio focused directly on security operations. It analyzes synthetic SSH authentication events, identifies repeated failures and successful logins after failures, and provides an analyst validation checklist. It is a local learning exercise rather than a production SIEM deployment.\n\n## 🔧 Skills I Am Developing
+## 🚨 SOC Analyst Practice
+
+The [SOC Alert Triage Lab](./11-soc-alert-triage/) analyzes synthetic SSH authentication events, identifies repeated failures and successful logins after failures, and provides an analyst validation checklist. It is a local learning exercise rather than a production SIEM deployment.
+
+The [OWASP Juice Shop assessment](./06-vulnerability-assessment/) complements this work by demonstrating HTTP request analysis, manual vulnerability validation, automated scan comparison, risk assessment, and remediation reporting.
+
+## 🔧 Skills I Am Developing
 
 - **Operating systems:** Kali Linux, Ubuntu/Debian, Windows
-- **Networking and security:** TCP/IP, Nmap, Wireshark, vulnerability assessment, OWASP fundamentals
+- **Networking and security:** TCP/IP, Nmap, Wireshark, web vulnerability assessment, OWASP fundamentals
+- **Web security tools:** Burp Suite Community Edition, OWASP ZAP, Gobuster, WhatWeb
 - **Linux:** Command-line tools, file permissions, Bash scripting
 - **Programming and data:** Python, SQL, Java, HTML/CSS/JavaScript
-- **Security foundations:** access control, least privilege, security auditing, incident response concepts
+- **Security operations:** authentication log analysis, alert triage, incident documentation, least privilege
 
 I describe these as developing skills and continue to strengthen them through practice and projects.
 
