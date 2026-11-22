@@ -20,7 +20,7 @@ I also have experience as a STEM and robotics educator. This portfolio documents
 | 03 | [Network Analysis](./03-network-analysis/) | Packet inspection and network traffic analysis | Wireshark, TCP/IP |
 | 04 | [Linux Permissions](./04-linux-permissions/) | Reviewing file permissions and using a Bash script to apply least-privilege settings | Linux, Bash, chmod, stat |
 | 05 | [SQL Analysis](./05-sql-analysis/) | Filtering and reviewing security-related records | SQL, authentication logs |
-| 06 | [OWASP Juice Shop Vulnerability Assessment](./06-vulnerability-assessment/) | Manual validation of web application vulnerabilities and remediation planning | Burp Suite, OWASP ZAP, Gobuster, WhatWeb |
+| 06 | [OWASP Juice Shop Vulnerability Assessment](./06-vulnerability-assessment/) ([public report summary](./06-vulnerability-assessment/REPORT_SUMMARY.md)) | Manual validation of web application vulnerabilities and remediation planning | Burp Suite, OWASP ZAP, Gobuster, WhatWeb |
 | 07 | [Incident Response](./07-incident-response/) | Documenting incident triage and response concepts | Incident response lifecycle |
 | 08 | [Python Log Analysis](./08-python-log-analysis/) | Learning to parse and review log data with Python | Python, regular expressions |
 | 09 | [Resume](./09-resume/) | Academic and project background | CV |
