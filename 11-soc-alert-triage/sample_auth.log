@@ -1,0 +1,8 @@
+Nov 22 09:14:01 lab-host sshd[4101]: Failed password for invalid user admin from 198.51.100.23 port 50101 ssh2
+Nov 22 09:14:08 lab-host sshd[4102]: Failed password for invalid user admin from 198.51.100.23 port 50102 ssh2
+Nov 22 09:14:15 lab-host sshd[4103]: Failed password for invalid user administrator from 198.51.100.23 port 50103 ssh2
+Nov 22 09:14:22 lab-host sshd[4104]: Failed password for root from 198.51.100.23 port 50104 ssh2
+Nov 22 09:14:29 lab-host sshd[4105]: Failed password for eang from 198.51.100.23 port 50105 ssh2
+Nov 22 09:14:36 lab-host sshd[4106]: Failed password for eang from 198.51.100.23 port 50106 ssh2
+Nov 22 09:15:02 lab-host sshd[4107]: Accepted password for eang from 198.51.100.23 port 50107 ssh2
+Nov 22 09:18:44 lab-host sshd[4110]: Accepted publickey for analyst from 203.0.113.45 port 51000 ssh2
