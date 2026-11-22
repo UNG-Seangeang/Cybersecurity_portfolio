@@ -24,9 +24,9 @@ I also have experience as a STEM and robotics educator. This portfolio documents
 | 07 | [Incident Response](./07-incident-response/) | Documenting incident triage and response concepts | Incident response lifecycle |
 | 08 | [Python Log Analysis](./08-python-log-analysis/) | Learning to parse and review log data with Python | Python, regular expressions |
 | 09 | [Resume](./09-resume/) | Academic and project background | CV |
-| 10 | [Certificates](./10-certificate/) | Training certificates and completed learning credentials | Google, ISC2 |
+| 10 | [Certificates](./10-certificate/) | Training certificates and completed learning credentials | Google, ISC2 |\n| 11 | [SOC Alert Triage Lab](./11-soc-alert-triage/) | Python-based SSH authentication log triage using synthetic events, transparent detection logic, and unit tests | Python, Linux auth.log, SOC triage, MITRE ATT&CK |
 
-## 🔧 Skills I Am Developing
+## 🚨 SOC Analyst Practice\n\nThe new [SOC Alert Triage Lab](./11-soc-alert-triage/) is the first project in this portfolio focused directly on security operations. It analyzes synthetic SSH authentication events, identifies repeated failures and successful logins after failures, and provides an analyst validation checklist. It is a local learning exercise rather than a production SIEM deployment.\n\n## 🔧 Skills I Am Developing
 
 - **Operating systems:** Kali Linux, Ubuntu/Debian, Windows
 - **Networking and security:** TCP/IP, Nmap, Wireshark, vulnerability assessment, OWASP fundamentals
@@ -55,7 +55,7 @@ Run the script only in a test environment where you understand the files and per
 
 ## 🎯 Current Learning Focus
 
-I am continuing to build my foundation in networking, Linux, cloud computing, and security analysis while adding clear documentation, evidence, and lessons learned to my projects.
+My current focus is SOC fundamentals: log analysis, alert validation, event correlation, incident documentation, Linux, networking, and SIEM concepts. I am building these capabilities through reproducible labs and clearly documented evidence.
 
 ## 🔗 Links
 
